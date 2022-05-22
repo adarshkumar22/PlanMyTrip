@@ -39,7 +39,7 @@ const FrontPage = () => {
           <div className="box-container">
             <div className="box">
               <i className="fas fa-hotel" />
-              <h3>Trip experiences</h3>
+              <h3>Read Trip experiences</h3>
               <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore commodi earum, quis voluptate exercitationem ut minima itaque iusto ipsum corrupti!</p>
             </div>
             <div className="box">

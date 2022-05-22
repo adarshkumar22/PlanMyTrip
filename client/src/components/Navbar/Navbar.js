@@ -48,19 +48,19 @@ const Navbar = () => {
       <Link to="/posts" className={classes.brandContainer}>
           {/* <img component={Link} to="/" src={memoriesText} alt="icon" height="45px" />
           <img className={classes.image} src={memoriesLogo} alt="icon" height="40px" /> */}
-          Trips
+          Experiences
       </Link>
       <Link to="/" className={classes.brandContainer}>
           {/* <img component={Link} to="/" src={memoriesText} alt="icon" height="45px" />
           <img className={classes.image} src={memoriesLogo} alt="icon" height="40px" /> */}
           Our Plans
       </Link>
-      <Link to="/" className={classes.brandContainer}>
+      <Link to="/about" className={classes.brandContainer}>
           {/* <img component={Link} to="/" src={memoriesText} alt="icon" height="45px" />
           <img className={classes.image} src={memoriesLogo} alt="icon" height="40px" /> */}
           About Us
       </Link>
-      <Link to="/" className={classes.brandContainer}>
+      <Link to="/contact" className={classes.brandContainer}>
           {/* <img component={Link} to="/" src={memoriesText} alt="icon" height="45px" />
           <img className={classes.image} src={memoriesLogo} alt="icon" height="40px" /> */}
           Contact Us
