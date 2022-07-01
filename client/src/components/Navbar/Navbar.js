@@ -50,11 +50,11 @@ const Navbar = () => {
           <img className={classes.image} src={memoriesLogo} alt="icon" height="40px" /> */}
           Experiences
       </Link>
-      <Link to="/" className={classes.brandContainer}>
-          {/* <img component={Link} to="/" src={memoriesText} alt="icon" height="45px" />
-          <img className={classes.image} src={memoriesLogo} alt="icon" height="40px" /> */}
-          Our Plans
-      </Link>
+//       <Link to="/" className={classes.brandContainer}>
+//           {/* <img component={Link} to="/" src={memoriesText} alt="icon" height="45px" />
+//           <img className={classes.image} src={memoriesLogo} alt="icon" height="40px" /> */}
+//           Our Plans
+//       </Link>
       <Link to="/about" className={classes.brandContainer}>
           {/* <img component={Link} to="/" src={memoriesText} alt="icon" height="45px" />
           <img className={classes.image} src={memoriesLogo} alt="icon" height="40px" /> */}
