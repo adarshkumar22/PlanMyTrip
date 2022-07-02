@@ -8,6 +8,13 @@
 ### Login/Signup
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/71789479/176949040-b48b9377-978d-439e-bc0e-08110b2b8892.png">
 
+### Features implemented
+• The registered user can read, like travel experiences. Display their own
+experiences and remove them.
+• Features such as authentication, pagination have been taken into consideration.
+• The code is written under Model-View-Controller(MVC).
+• The project was developed using MongoDB, ExpressJS, React and NodeJS
+technologies.
 
 ### Setup:
 - run ```npm i && npm start``` for both client and server side to start the website
