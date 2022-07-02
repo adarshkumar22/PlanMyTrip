@@ -10,11 +10,11 @@
 
 ### Features implemented
 • The registered user can read, like travel experiences. Display their own
-experiences and remove them.
-• Features such as authentication, pagination have been taken into consideration.
-• The code is written under Model-View-Controller(MVC).
+experiences and remove them. <br />
+• Features such as authentication, pagination have been taken into consideration.<br />
+• The code is written under Model-View-Controller(MVC).<br />
 • The project was developed using MongoDB, ExpressJS, React and NodeJS
-technologies.
+technologies.<br />
 
 ### Setup:
 - run ```npm i && npm start``` for both client and server side to start the website
